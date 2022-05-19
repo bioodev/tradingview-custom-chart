@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background: #000;
+}
+.container {
+  display: flex;
+  align-items: stretch;
+  height: 99vh;
+  width: 99vw;
+}
+.tradingview-widget-container {
+    width: 100vw;
+    position: fixed;
+}
